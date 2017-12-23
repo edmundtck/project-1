@@ -152,6 +152,12 @@ $('#form').on('submit', function(e) {...});
 
 ---
 
+### Link to game
+
+<https://edmundtck.github.io/project-1/maze.html>
+
+---
+
 ### Maze Design
 
 <img src="images/project1-wireframe/game-design.jpg" alt="wireframe" width="600">
